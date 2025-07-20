@@ -1,0 +1,19 @@
+.sidebar{
+    background-color: #1E293B;
+}
+.prim{
+    background-color: #F8FAFC;
+}
+.line{
+    height: 1px;
+    width: 75%;
+    background-color: gray;
+}
+.pendingBox{
+    background-color: orange;
+    border-radius: 4px;
+  font-weight: 500;
+}
+.comTasks{
+    background-color: green;
+}
